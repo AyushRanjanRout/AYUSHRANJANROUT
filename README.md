@@ -3,7 +3,6 @@
 <p><em> I am a Full stack Web Developer,Android App Developer,Wordpress Developer,Graphics Designer & Ethical Hacker. I am From Odisha,India .  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
 </em></p>
 
-
 ### 👨‍💻 Interested In...
 - Web Developement
 - App Developement
