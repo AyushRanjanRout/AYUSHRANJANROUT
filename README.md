@@ -1,4 +1,4 @@
-<h2> Hi there, I am Ayush! 👋</h2>
+<h2> Hi there, I am Ayush! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"> </h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AyushRanjanRout&show_icons=true&theme=radical" width="380">
 <p><em> I am a Full stack Web Developer,Android App Developer,Wordpress Developer,Graphics Designer & Ethical Hacker. I am From Odisha,India .  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
 </em></p>
