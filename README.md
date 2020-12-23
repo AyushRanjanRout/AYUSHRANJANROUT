@@ -19,11 +19,11 @@
 ### 📺Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Hacking Nasa With HTML (watch before it is deleted)](https://www.youtube.com/watch?v=PMPIJO8IHgA)
 - [How To Add Thumbnail on Youtube Videoes  || यूट्यूब पे थंबनेल कैसे  उपलोड़े करें](https://www.youtube.com/watch?v=5hOg93e8OlE)
 - [How to Make Bootable Pendrive in Hindi | पेनड्राइव से विंडो install | Bootable Pendrive](https://www.youtube.com/watch?v=0i8SzJOOwV8)
 - [How To Download Pubg Mobile On Pc](https://www.youtube.com/watch?v=hCIFRRV4ohE)
 - [how to Hack Whatsapp in Hindi](https://www.youtube.com/watch?v=HasVdK5_njA)
+- [How to Earn Money From Internet in Hindi](https://www.youtube.com/watch?v=mYumynUYy24)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDVoyv4BEYQkHC8IVcFUw8A)
