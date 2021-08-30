@@ -19,11 +19,11 @@
 ### 📺Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Install Wordpress on your PC using xampp](https://www.youtube.com/watch?v=qtzA45_7MAY)
 - [How To Create A Free Website in Just 10 Mins  - With Free Domain & Hosting (Hindi)](https://www.youtube.com/watch?v=2OkaWbhZQC4)
 - [How to purchase Google play developer console || Register Google Play Developer account](https://www.youtube.com/watch?v=vBJf3d8lf4w)
 - [Jio Me Caller tune Kaise Set Kare || How to set Jio Caller tune for free](https://www.youtube.com/watch?v=4dOueMXamHw)
 - [Hacking Nasa With HTML (watch before it is deleted)](https://www.youtube.com/watch?v=PMPIJO8IHgA)
-- [How To Add Thumbnail on Youtube Videoes  || यूट्यूब पे थंबनेल कैसे  उपलोड़े करें](https://www.youtube.com/watch?v=5hOg93e8OlE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCDVoyv4BEYQkHC8IVcFUw8A)
